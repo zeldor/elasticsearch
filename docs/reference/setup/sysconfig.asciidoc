@@ -13,6 +13,7 @@ The following settings *must* be considered before going to production:
 * <<vm-max-map-count,Ensure sufficient virtual memory>>
 * <<max-number-of-threads,Ensure sufficient threads>>
 * <<networkaddress-cache-ttl,JVM DNS cache settings>>
+* <<modules-transport,Enable Network compression>>
 
 [[dev-vs-prod]]
 [float]
